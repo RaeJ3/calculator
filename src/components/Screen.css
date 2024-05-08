@@ -1,0 +1,14 @@
+.screen {
+  width: 320px;
+  height: 95px;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  background-color: #221005;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  font-weight: bold;
+  box-sizing: border-box;
+}
